@@ -1,2 +1,2 @@
-# crypto-jouney
+# crypto-journey
 My Cryptocurrency Journey
